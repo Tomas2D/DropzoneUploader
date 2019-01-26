@@ -3,8 +3,6 @@
 Instalace
 ============
 
-	composer require olicek/dropzone-uploader:dev-master
-
 Registrovat v extensions
 
 ```
